@@ -1,0 +1,143 @@
+G:\Outros computadores\Meu laptop\Lucas\FAESA\7 Periodo\Imagens\Condominio\bin\Debug\net6.0-windows\Condominio.exe
+G:\Outros computadores\Meu laptop\Lucas\FAESA\7 Periodo\Imagens\Condominio\bin\Debug\net6.0-windows\grass1.jpeg
+G:\Outros computadores\Meu laptop\Lucas\FAESA\7 Periodo\Imagens\Condominio\bin\Debug\net6.0-windows\sand.jpg
+G:\Outros computadores\Meu laptop\Lucas\FAESA\7 Periodo\Imagens\Condominio\bin\Debug\net6.0-windows\water.jpg
+G:\Outros computadores\Meu laptop\Lucas\FAESA\7 Periodo\Imagens\Condominio\bin\Debug\net6.0-windows\Condominio.deps.json
+G:\Outros computadores\Meu laptop\Lucas\FAESA\7 Periodo\Imagens\Condominio\bin\Debug\net6.0-windows\Condominio.runtimeconfig.json
+G:\Outros computadores\Meu laptop\Lucas\FAESA\7 Periodo\Imagens\Condominio\bin\Debug\net6.0-windows\Condominio.dll
+G:\Outros computadores\Meu laptop\Lucas\FAESA\7 Periodo\Imagens\Condominio\bin\Debug\net6.0-windows\Condominio.pdb
+G:\Outros computadores\Meu laptop\Lucas\FAESA\7 Periodo\Imagens\Condominio\obj\Debug\net6.0-windows\MainWindow.g.vb
+G:\Outros computadores\Meu laptop\Lucas\FAESA\7 Periodo\Imagens\Condominio\obj\Debug\net6.0-windows\Application.g.vb
+G:\Outros computadores\Meu laptop\Lucas\FAESA\7 Periodo\Imagens\Condominio\obj\Debug\net6.0-windows\Condominio_MarkupCompile.cache
+G:\Outros computadores\Meu laptop\Lucas\FAESA\7 Periodo\Imagens\Condominio\obj\Debug\net6.0-windows\Condominio_MarkupCompile.lref
+G:\Outros computadores\Meu laptop\Lucas\FAESA\7 Periodo\Imagens\Condominio\obj\Debug\net6.0-windows\MainWindow.baml
+G:\Outros computadores\Meu laptop\Lucas\FAESA\7 Periodo\Imagens\Condominio\obj\Debug\net6.0-windows\Condominio.g.resources
+G:\Outros computadores\Meu laptop\Lucas\FAESA\7 Periodo\Imagens\Condominio\obj\Debug\net6.0-windows\Condominio.GeneratedMSBuildEditorConfig.editorconfig
+G:\Outros computadores\Meu laptop\Lucas\FAESA\7 Periodo\Imagens\Condominio\obj\Debug\net6.0-windows\Condominio.AssemblyInfoInputs.cache
+G:\Outros computadores\Meu laptop\Lucas\FAESA\7 Periodo\Imagens\Condominio\obj\Debug\net6.0-windows\Condominio.AssemblyInfo.vb
+G:\Outros computadores\Meu laptop\Lucas\FAESA\7 Periodo\Imagens\Condominio\obj\Debug\net6.0-windows\Condominio.vbproj.CoreCompileInputs.cache
+G:\Outros computadores\Meu laptop\Lucas\FAESA\7 Periodo\Imagens\Condominio\obj\Debug\net6.0-windows\Condominio.dll
+G:\Outros computadores\Meu laptop\Lucas\FAESA\7 Periodo\Imagens\Condominio\obj\Debug\net6.0-windows\refint\Condominio.dll
+G:\Outros computadores\Meu laptop\Lucas\FAESA\7 Periodo\Imagens\Condominio\obj\Debug\net6.0-windows\Condominio.pdb
+G:\Outros computadores\Meu laptop\Lucas\FAESA\7 Periodo\Imagens\Condominio\obj\Debug\net6.0-windows\Condominio.genruntimeconfig.cache
+G:\Outros computadores\Meu laptop\Lucas\FAESA\7 Periodo\Imagens\Condominio\obj\Debug\net6.0-windows\ref\Condominio.dll
+C:\Users\Aorus\Desktop\Condominio\bin\Debug\net6.0-windows\Condominio.exe
+C:\Users\Aorus\Desktop\Condominio\bin\Debug\net6.0-windows\grass1.jpeg
+C:\Users\Aorus\Desktop\Condominio\bin\Debug\net6.0-windows\sand.jpg
+C:\Users\Aorus\Desktop\Condominio\bin\Debug\net6.0-windows\water.jpg
+C:\Users\Aorus\Desktop\Condominio\bin\Debug\net6.0-windows\Condominio.deps.json
+C:\Users\Aorus\Desktop\Condominio\bin\Debug\net6.0-windows\Condominio.runtimeconfig.json
+C:\Users\Aorus\Desktop\Condominio\bin\Debug\net6.0-windows\Condominio.dll
+C:\Users\Aorus\Desktop\Condominio\bin\Debug\net6.0-windows\Condominio.pdb
+C:\Users\Aorus\Desktop\Condominio\obj\Debug\net6.0-windows\MainWindow.g.vb
+C:\Users\Aorus\Desktop\Condominio\obj\Debug\net6.0-windows\Application.g.vb
+C:\Users\Aorus\Desktop\Condominio\obj\Debug\net6.0-windows\Condominio_MarkupCompile.cache
+C:\Users\Aorus\Desktop\Condominio\obj\Debug\net6.0-windows\Condominio_MarkupCompile.lref
+C:\Users\Aorus\Desktop\Condominio\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Aorus\Desktop\Condominio\obj\Debug\net6.0-windows\Condominio.g.resources
+C:\Users\Aorus\Desktop\Condominio\obj\Debug\net6.0-windows\Condominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aorus\Desktop\Condominio\obj\Debug\net6.0-windows\Condominio.AssemblyInfoInputs.cache
+C:\Users\Aorus\Desktop\Condominio\obj\Debug\net6.0-windows\Condominio.AssemblyInfo.vb
+C:\Users\Aorus\Desktop\Condominio\obj\Debug\net6.0-windows\Condominio.vbproj.CoreCompileInputs.cache
+C:\Users\Aorus\Desktop\Condominio\obj\Debug\net6.0-windows\Condominio.dll
+C:\Users\Aorus\Desktop\Condominio\obj\Debug\net6.0-windows\refint\Condominio.dll
+C:\Users\Aorus\Desktop\Condominio\obj\Debug\net6.0-windows\Condominio.pdb
+C:\Users\Aorus\Desktop\Condominio\obj\Debug\net6.0-windows\Condominio.genruntimeconfig.cache
+C:\Users\Aorus\Desktop\Condominio\obj\Debug\net6.0-windows\ref\Condominio.dll
+C:\Users\Aorus\Desktop\Condominio\obj\Debug\net6.0-windows\Condominio_Content.g.vb
+C:\Users\aluno.laboratorio\Downloads\Condominio\bin\Debug\net6.0-windows\Condominio.exe
+C:\Users\aluno.laboratorio\Downloads\Condominio\bin\Debug\net6.0-windows\grass1.jpeg
+C:\Users\aluno.laboratorio\Downloads\Condominio\bin\Debug\net6.0-windows\sand.jpg
+C:\Users\aluno.laboratorio\Downloads\Condominio\bin\Debug\net6.0-windows\water.jpg
+C:\Users\aluno.laboratorio\Downloads\Condominio\bin\Debug\net6.0-windows\Condominio.deps.json
+C:\Users\aluno.laboratorio\Downloads\Condominio\bin\Debug\net6.0-windows\Condominio.runtimeconfig.json
+C:\Users\aluno.laboratorio\Downloads\Condominio\bin\Debug\net6.0-windows\Condominio.dll
+C:\Users\aluno.laboratorio\Downloads\Condominio\bin\Debug\net6.0-windows\Condominio.pdb
+C:\Users\aluno.laboratorio\Downloads\Condominio\obj\Debug\net6.0-windows\MainWindow.g.vb
+C:\Users\aluno.laboratorio\Downloads\Condominio\obj\Debug\net6.0-windows\Application.g.vb
+C:\Users\aluno.laboratorio\Downloads\Condominio\obj\Debug\net6.0-windows\Condominio_Content.g.vb
+C:\Users\aluno.laboratorio\Downloads\Condominio\obj\Debug\net6.0-windows\Condominio_MarkupCompile.cache
+C:\Users\aluno.laboratorio\Downloads\Condominio\obj\Debug\net6.0-windows\Condominio_MarkupCompile.lref
+C:\Users\aluno.laboratorio\Downloads\Condominio\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\aluno.laboratorio\Downloads\Condominio\obj\Debug\net6.0-windows\Condominio.g.resources
+C:\Users\aluno.laboratorio\Downloads\Condominio\obj\Debug\net6.0-windows\Condominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.laboratorio\Downloads\Condominio\obj\Debug\net6.0-windows\Condominio.AssemblyInfoInputs.cache
+C:\Users\aluno.laboratorio\Downloads\Condominio\obj\Debug\net6.0-windows\Condominio.AssemblyInfo.vb
+C:\Users\aluno.laboratorio\Downloads\Condominio\obj\Debug\net6.0-windows\Condominio.vbproj.CoreCompileInputs.cache
+C:\Users\aluno.laboratorio\Downloads\Condominio\obj\Debug\net6.0-windows\Condominio.dll
+C:\Users\aluno.laboratorio\Downloads\Condominio\obj\Debug\net6.0-windows\refint\Condominio.dll
+C:\Users\aluno.laboratorio\Downloads\Condominio\obj\Debug\net6.0-windows\Condominio.pdb
+C:\Users\aluno.laboratorio\Downloads\Condominio\obj\Debug\net6.0-windows\Condominio.genruntimeconfig.cache
+C:\Users\aluno.laboratorio\Downloads\Condominio\obj\Debug\net6.0-windows\ref\Condominio.dll
+C:\Users\Aorus\Downloads\Condominio\bin\Debug\net6.0-windows\Condominio.exe
+C:\Users\Aorus\Downloads\Condominio\bin\Debug\net6.0-windows\grass1.jpeg
+C:\Users\Aorus\Downloads\Condominio\bin\Debug\net6.0-windows\sand.jpg
+C:\Users\Aorus\Downloads\Condominio\bin\Debug\net6.0-windows\water.jpg
+C:\Users\Aorus\Downloads\Condominio\bin\Debug\net6.0-windows\Condominio.deps.json
+C:\Users\Aorus\Downloads\Condominio\bin\Debug\net6.0-windows\Condominio.runtimeconfig.json
+C:\Users\Aorus\Downloads\Condominio\bin\Debug\net6.0-windows\Condominio.dll
+C:\Users\Aorus\Downloads\Condominio\bin\Debug\net6.0-windows\Condominio.pdb
+C:\Users\Aorus\Downloads\Condominio\obj\Debug\net6.0-windows\MainWindow.g.vb
+C:\Users\Aorus\Downloads\Condominio\obj\Debug\net6.0-windows\Application.g.vb
+C:\Users\Aorus\Downloads\Condominio\obj\Debug\net6.0-windows\Condominio_Content.g.vb
+C:\Users\Aorus\Downloads\Condominio\obj\Debug\net6.0-windows\Condominio_MarkupCompile.cache
+C:\Users\Aorus\Downloads\Condominio\obj\Debug\net6.0-windows\Condominio_MarkupCompile.lref
+C:\Users\Aorus\Downloads\Condominio\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Aorus\Downloads\Condominio\obj\Debug\net6.0-windows\Condominio.g.resources
+C:\Users\Aorus\Downloads\Condominio\obj\Debug\net6.0-windows\Condominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aorus\Downloads\Condominio\obj\Debug\net6.0-windows\Condominio.AssemblyInfoInputs.cache
+C:\Users\Aorus\Downloads\Condominio\obj\Debug\net6.0-windows\Condominio.AssemblyInfo.vb
+C:\Users\Aorus\Downloads\Condominio\obj\Debug\net6.0-windows\Condominio.vbproj.CoreCompileInputs.cache
+C:\Users\Aorus\Downloads\Condominio\obj\Debug\net6.0-windows\Condominio.dll
+C:\Users\Aorus\Downloads\Condominio\obj\Debug\net6.0-windows\refint\Condominio.dll
+C:\Users\Aorus\Downloads\Condominio\obj\Debug\net6.0-windows\Condominio.pdb
+C:\Users\Aorus\Downloads\Condominio\obj\Debug\net6.0-windows\Condominio.genruntimeconfig.cache
+C:\Users\Aorus\Downloads\Condominio\obj\Debug\net6.0-windows\ref\Condominio.dll
+C:\Users\aluno.laboratorio\Downloads\Condominio\Condominio\bin\Debug\net6.0-windows\Condominio.exe
+C:\Users\aluno.laboratorio\Downloads\Condominio\Condominio\bin\Debug\net6.0-windows\grass1.jpeg
+C:\Users\aluno.laboratorio\Downloads\Condominio\Condominio\bin\Debug\net6.0-windows\sand.jpg
+C:\Users\aluno.laboratorio\Downloads\Condominio\Condominio\bin\Debug\net6.0-windows\water.jpg
+C:\Users\aluno.laboratorio\Downloads\Condominio\Condominio\bin\Debug\net6.0-windows\Condominio.deps.json
+C:\Users\aluno.laboratorio\Downloads\Condominio\Condominio\bin\Debug\net6.0-windows\Condominio.runtimeconfig.json
+C:\Users\aluno.laboratorio\Downloads\Condominio\Condominio\bin\Debug\net6.0-windows\Condominio.dll
+C:\Users\aluno.laboratorio\Downloads\Condominio\Condominio\bin\Debug\net6.0-windows\Condominio.pdb
+C:\Users\aluno.laboratorio\Downloads\Condominio\Condominio\obj\Debug\net6.0-windows\MainWindow.g.vb
+C:\Users\aluno.laboratorio\Downloads\Condominio\Condominio\obj\Debug\net6.0-windows\Application.g.vb
+C:\Users\aluno.laboratorio\Downloads\Condominio\Condominio\obj\Debug\net6.0-windows\Condominio_Content.g.vb
+C:\Users\aluno.laboratorio\Downloads\Condominio\Condominio\obj\Debug\net6.0-windows\Condominio_MarkupCompile.cache
+C:\Users\aluno.laboratorio\Downloads\Condominio\Condominio\obj\Debug\net6.0-windows\Condominio_MarkupCompile.lref
+C:\Users\aluno.laboratorio\Downloads\Condominio\Condominio\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\aluno.laboratorio\Downloads\Condominio\Condominio\obj\Debug\net6.0-windows\Condominio.g.resources
+C:\Users\aluno.laboratorio\Downloads\Condominio\Condominio\obj\Debug\net6.0-windows\Condominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.laboratorio\Downloads\Condominio\Condominio\obj\Debug\net6.0-windows\Condominio.AssemblyInfoInputs.cache
+C:\Users\aluno.laboratorio\Downloads\Condominio\Condominio\obj\Debug\net6.0-windows\Condominio.AssemblyInfo.vb
+C:\Users\aluno.laboratorio\Downloads\Condominio\Condominio\obj\Debug\net6.0-windows\Condominio.vbproj.CoreCompileInputs.cache
+C:\Users\aluno.laboratorio\Downloads\Condominio\Condominio\obj\Debug\net6.0-windows\Condominio.dll
+C:\Users\aluno.laboratorio\Downloads\Condominio\Condominio\obj\Debug\net6.0-windows\refint\Condominio.dll
+C:\Users\aluno.laboratorio\Downloads\Condominio\Condominio\obj\Debug\net6.0-windows\Condominio.pdb
+C:\Users\aluno.laboratorio\Downloads\Condominio\Condominio\obj\Debug\net6.0-windows\Condominio.genruntimeconfig.cache
+C:\Users\aluno.laboratorio\Downloads\Condominio\Condominio\obj\Debug\net6.0-windows\ref\Condominio.dll
+C:\Users\Aorus\Downloads\C2 - Lucas Rodrigues e Marcelo Martinelli\Condominio\Condominio\bin\Debug\net6.0-windows\Condominio.exe
+C:\Users\Aorus\Downloads\C2 - Lucas Rodrigues e Marcelo Martinelli\Condominio\Condominio\bin\Debug\net6.0-windows\grass1.jpeg
+C:\Users\Aorus\Downloads\C2 - Lucas Rodrigues e Marcelo Martinelli\Condominio\Condominio\bin\Debug\net6.0-windows\sand.jpg
+C:\Users\Aorus\Downloads\C2 - Lucas Rodrigues e Marcelo Martinelli\Condominio\Condominio\bin\Debug\net6.0-windows\water.jpg
+C:\Users\Aorus\Downloads\C2 - Lucas Rodrigues e Marcelo Martinelli\Condominio\Condominio\bin\Debug\net6.0-windows\Condominio.deps.json
+C:\Users\Aorus\Downloads\C2 - Lucas Rodrigues e Marcelo Martinelli\Condominio\Condominio\bin\Debug\net6.0-windows\Condominio.runtimeconfig.json
+C:\Users\Aorus\Downloads\C2 - Lucas Rodrigues e Marcelo Martinelli\Condominio\Condominio\bin\Debug\net6.0-windows\Condominio.dll
+C:\Users\Aorus\Downloads\C2 - Lucas Rodrigues e Marcelo Martinelli\Condominio\Condominio\bin\Debug\net6.0-windows\Condominio.pdb
+C:\Users\Aorus\Downloads\C2 - Lucas Rodrigues e Marcelo Martinelli\Condominio\Condominio\obj\Debug\net6.0-windows\MainWindow.g.vb
+C:\Users\Aorus\Downloads\C2 - Lucas Rodrigues e Marcelo Martinelli\Condominio\Condominio\obj\Debug\net6.0-windows\Application.g.vb
+C:\Users\Aorus\Downloads\C2 - Lucas Rodrigues e Marcelo Martinelli\Condominio\Condominio\obj\Debug\net6.0-windows\Condominio_Content.g.vb
+C:\Users\Aorus\Downloads\C2 - Lucas Rodrigues e Marcelo Martinelli\Condominio\Condominio\obj\Debug\net6.0-windows\Condominio_MarkupCompile.cache
+C:\Users\Aorus\Downloads\C2 - Lucas Rodrigues e Marcelo Martinelli\Condominio\Condominio\obj\Debug\net6.0-windows\Condominio_MarkupCompile.lref
+C:\Users\Aorus\Downloads\C2 - Lucas Rodrigues e Marcelo Martinelli\Condominio\Condominio\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Aorus\Downloads\C2 - Lucas Rodrigues e Marcelo Martinelli\Condominio\Condominio\obj\Debug\net6.0-windows\Condominio.g.resources
+C:\Users\Aorus\Downloads\C2 - Lucas Rodrigues e Marcelo Martinelli\Condominio\Condominio\obj\Debug\net6.0-windows\Condominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aorus\Downloads\C2 - Lucas Rodrigues e Marcelo Martinelli\Condominio\Condominio\obj\Debug\net6.0-windows\Condominio.AssemblyInfoInputs.cache
+C:\Users\Aorus\Downloads\C2 - Lucas Rodrigues e Marcelo Martinelli\Condominio\Condominio\obj\Debug\net6.0-windows\Condominio.AssemblyInfo.vb
+C:\Users\Aorus\Downloads\C2 - Lucas Rodrigues e Marcelo Martinelli\Condominio\Condominio\obj\Debug\net6.0-windows\Condominio.vbproj.CoreCompileInputs.cache
+C:\Users\Aorus\Downloads\C2 - Lucas Rodrigues e Marcelo Martinelli\Condominio\Condominio\obj\Debug\net6.0-windows\Condominio.dll
+C:\Users\Aorus\Downloads\C2 - Lucas Rodrigues e Marcelo Martinelli\Condominio\Condominio\obj\Debug\net6.0-windows\refint\Condominio.dll
+C:\Users\Aorus\Downloads\C2 - Lucas Rodrigues e Marcelo Martinelli\Condominio\Condominio\obj\Debug\net6.0-windows\Condominio.pdb
+C:\Users\Aorus\Downloads\C2 - Lucas Rodrigues e Marcelo Martinelli\Condominio\Condominio\obj\Debug\net6.0-windows\Condominio.genruntimeconfig.cache
+C:\Users\Aorus\Downloads\C2 - Lucas Rodrigues e Marcelo Martinelli\Condominio\Condominio\obj\Debug\net6.0-windows\ref\Condominio.dll
